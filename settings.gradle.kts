@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RtspViewer"
+rootProject.name = "BitcoinApp"
 include(":app")
- 
